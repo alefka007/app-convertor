@@ -1,0 +1,18 @@
+.input,
+.inputSelect {
+    padding: 17px 30px;
+    margin-left: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px #857a7a;
+    outline: none;
+    border: none;
+}
+
+.inputGroup {
+    padding-top: 20px;
+}
+
+.inputSelect {
+    padding: 10px;
+}

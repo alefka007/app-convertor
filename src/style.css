@@ -1,0 +1,21 @@
+@font-face { 
+    font-family: 'Nanum Gothic';
+    src: url('../public/fonts/NanumGothic-Regular.woff') format("woff"); 
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+:root {
+    --accent-text-color: #7a5e4d;
+}

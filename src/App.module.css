@@ -1,0 +1,15 @@
+.convertorContainer {
+    width: 700px;
+    height: 400px;
+    margin: 100px auto 0;
+    background-color: #bbbbbb;
+    border-radius: 10px;
+    box-shadow: 3px 3px 7px #857a7a;
+}
+
+.convertorTitle {
+    font-family: 'Nanum Gothic', sans-serif;
+    color: var(--accent-text-color);
+    text-align: center;
+    padding-top: 50px;
+}
